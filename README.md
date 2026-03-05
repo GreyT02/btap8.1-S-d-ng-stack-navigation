@@ -4,13 +4,13 @@
 ##Bài tập 8.1: Sử dụng stack navigation
 
 ### 1) Welcome (hiển thị 1 lần)
-![welcome](Screenshots/welcome.png)
+![welcome](Screenshots/welcome.jpg)
 
 ### 2) Nhập đúng (hợp lệ)
-![true](Screenshots/true.png)
+![true](Screenshots/true.jpg)
 
 ### 3) HomeScreen
-![home](Screenshots/home.png)
+![home](Screenshots/home.jpg)
 
 ### 4) Nhập sai (báo lỗi)
-![fail](Screenshots/fail.png)
+![fail](Screenshots/fail.jpg)
